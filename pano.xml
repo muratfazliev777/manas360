@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18105" appversion="6.1.14">
+  <panorama hideabout="1" id="node1">
+    <input overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="6633" levelingpitch="0" width="6633" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="6633" width="6633" preload="0"/>
+      <level predecode="0" height="3316" width="3316" preload="0"/>
+      <level predecode="0" height="1658" width="1658" preload="0"/>
+      <level predecode="0" height="829" width="829" preload="0"/>
+      <level predecode="1" height="414" width="414" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="42.835185" source="" title="" longitude="74.576943" heading="0" description="" comment="" nodeid="node1" author="" datetime="27.05.2024 16:49" info="" copyright="" altitude="892.04" customnodeid="" tags="manas Sanal tur"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" borderradius="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="158.535" target="-16.2/-14.1/70.0" pan="-296.43" url="{node2}" skinid="ht_node" title="Rektörlük" description="Rektörlük" tilt="-1.02" id="rec"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0" enabled="1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomfov="20" blendtime="1" zoomafterinfov="90"/>
+    <soundstransition transitiontime="2" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="1.50"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="6634" levelingpitch="0" width="6634" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000">
+      <level predecode="0" height="6634" width="6634" preload="0"/>
+      <level predecode="0" height="3317" width="3317" preload="0"/>
+      <level predecode="0" height="1658" width="1658" preload="0"/>
+      <level predecode="0" height="829" width="829" preload="0"/>
+      <level predecode="1" height="414" width="414" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="42.833801" source="" title="" longitude="74.576476" heading="0" description="" comment="" nodeid="node2" author="" datetime="27.05.2024 16:47" info="" copyright="" altitude="896.42" customnodeid="" tags="manas Sanal tur"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" borderradius="1" wordwrap="1" background="1" enabled="1" backgroundcolor="0xffffff" height="20" textalpha="1" width="180" backgroundalpha="1" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="158.535" target="58.0/-3.9/70.0" pan="-13.8981" url="{node1}" skinid="ht_node" title="" description="" tilt="0" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" zoomspeed="2" zoomoutpause="1" softedge="0" enabled="1" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomfov="20" blendtime="1" zoomafterinfov="90"/>
+    <soundstransition transitiontime="2" enabled="1" crossfade="0"/>
+    <flyintransition enabled="1" speed="1.50"/>
+    <animation syncanimationwithvideo="1" useinautorotation="1" animsequence="Animation01"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" source="" title="" longitude="" heading="0" description="" comment="" nodeid="master" author="" datetime="" info="" copyright="" customnodeid="" tags=""/>
+  </masternode>
+</tour>
